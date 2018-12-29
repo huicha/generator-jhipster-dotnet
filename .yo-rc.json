@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "huicha",
+      "authorName": "Cristian Huichaqueo",
+      "authorEmail": "cristianhuichaqueo@gmail.com",
+      "authorUrl": "https://github.com/huicha"
+    }
+  }
+}
